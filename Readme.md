@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Медина Дауди](https://up.htmlacademy.ru/htmlcss/27/user/1312313).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Лесухин](https://htmlacademy.ru/profile/caneklis).
 
 ---
 
